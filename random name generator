@@ -1,0 +1,33 @@
+from random import randint
+print("""random insult generator!!!
+
+self confidence is overated""")
+
+def chooser(False):
+    while chooser == False:
+        
+    	inslt = randint(1,10)
+		if inslt == 1:
+    		input("you suck")
+        
+		if inslt == 2:
+    		input("your stupid")
+		if inslt == 3:
+    		input("you have small hands")
+		if inslt == 4:
+    		input("idiot")
+		if inslt == 5:
+    		input("what the hell is wrong with yo")
+		if inslt == 6:
+    		input("ass")
+		if inslt == 7:
+    		input("bye")
+		if inslt == 8:
+   			input("dumbass")
+		if inslt == 9:
+    		input("stupidhead")
+		if inslt == 10:
+    		input("dumass")
+chooser = True
+chooser = True
+chooser =True
